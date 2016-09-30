@@ -8,7 +8,7 @@ package hw;
  * Author: 105021037 林建宏
  */
 import java.util.Scanner;
-public class hw02_1050210XX {
+public class hw02_105021037 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
